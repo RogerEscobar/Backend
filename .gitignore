@@ -128,3 +128,27 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Ignorar directorio de configuración de IntelliJ IDEA
+.idea/
+
+# Ignorar archivos de compilación Java
+*.class
+
+# Ignorar directorio de salida
+out/
+
+# Ignorar archivos de configuración del proyecto de IntelliJ IDEA
+*.iml
+
+# Ignorar archivos de registro
+*.log
+
+# Ignorar dependencias empaquetadas
+*.jar
+*.war
+*.ear
+
+# Ignorar archivos temporales o del sistema operativo
+.DS_Store
+Thumbs.db
