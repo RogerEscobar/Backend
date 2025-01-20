@@ -1,0 +1,14 @@
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\DEEP\learning-nodo-deep\clases\C3\Calculadora\Calculadora\obj\Debug\net9.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\DEEP\learning-nodo-deep\clases\C3\Calculadora\Calculadora\obj\Debug\net9.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\DEEP\learning-nodo-deep\clases\C3\Calculadora\Calculadora\obj\Debug\net9.0\Calculadora.AssemblyInfo.cs
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\DEEP\learning-nodo-deep\clases\C3\Calculadora\Calculadora\obj\Debug\net9.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\DEEP\learning-nodo-deep\clases\C3\Calculadora\Calculadora\bin\Debug\net9.0\Calculadora.exe
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\DEEP\learning-nodo-deep\clases\C3\Calculadora\Calculadora\bin\Debug\net9.0\Calculadora.deps.json
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\DEEP\learning-nodo-deep\clases\C3\Calculadora\Calculadora\bin\Debug\net9.0\Calculadora.runtimeconfig.json
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\DEEP\learning-nodo-deep\clases\C3\Calculadora\Calculadora\bin\Debug\net9.0\Calculadora.dll
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\DEEP\learning-nodo-deep\clases\C3\Calculadora\Calculadora\bin\Debug\net9.0\Calculadora.pdb
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\DEEP\learning-nodo-deep\clases\C3\Calculadora\Calculadora\obj\Debug\net9.0\Calculadora.dll
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\DEEP\learning-nodo-deep\clases\C3\Calculadora\Calculadora\obj\Debug\net9.0\refint\Calculadora.dll
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\DEEP\learning-nodo-deep\clases\C3\Calculadora\Calculadora\obj\Debug\net9.0\Calculadora.pdb
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\DEEP\learning-nodo-deep\clases\C3\Calculadora\Calculadora\obj\Debug\net9.0\Calculadora.genruntimeconfig.cache
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\DEEP\learning-nodo-deep\clases\C3\Calculadora\Calculadora\obj\Debug\net9.0\ref\Calculadora.dll
