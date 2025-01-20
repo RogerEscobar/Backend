@@ -1,0 +1,15 @@
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\clases\C1\HolaMundo\bin\Debug\net9.0\HolaMundo.exe
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\clases\C1\HolaMundo\bin\Debug\net9.0\HolaMundo.deps.json
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\clases\C1\HolaMundo\bin\Debug\net9.0\HolaMundo.runtimeconfig.json
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\clases\C1\HolaMundo\bin\Debug\net9.0\HolaMundo.dll
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\clases\C1\HolaMundo\bin\Debug\net9.0\HolaMundo.pdb
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\clases\C1\HolaMundo\obj\Debug\net9.0\HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\clases\C1\HolaMundo\obj\Debug\net9.0\HolaMundo.AssemblyInfoInputs.cache
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\clases\C1\HolaMundo\obj\Debug\net9.0\HolaMundo.AssemblyInfo.cs
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\clases\C1\HolaMundo\obj\Debug\net9.0\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\clases\C1\HolaMundo\obj\Debug\net9.0\HolaMundo.sourcelink.json
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\clases\C1\HolaMundo\obj\Debug\net9.0\HolaMundo.dll
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\clases\C1\HolaMundo\obj\Debug\net9.0\refint\HolaMundo.dll
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\clases\C1\HolaMundo\obj\Debug\net9.0\HolaMundo.pdb
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\clases\C1\HolaMundo\obj\Debug\net9.0\HolaMundo.genruntimeconfig.cache
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\clases\C1\HolaMundo\obj\Debug\net9.0\ref\HolaMundo.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\clases\\C2\\NivelesAcceso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C89518D7-2D5F-47A0-B0CC-A257BF2DEDA6}|NivelesAcceso\\NivelesAcceso.csproj|c:\\users\\roger escobar\\documents\\00-learning\\nodo\\backend\\learning-nodo-deep\\clases\\c2\\nivelesacceso\\nivelesacceso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C89518D7-2D5F-47A0-B0CC-A257BF2DEDA6}|NivelesAcceso\\NivelesAcceso.csproj|solutionrelative:nivelesacceso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\clases\\C2\\NivelesAcceso\\NivelesAcceso\\Program.cs",
+              "RelativeDocumentMoniker": "NivelesAcceso\\Program.cs",
+              "ToolTip": "C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\clases\\C2\\NivelesAcceso\\NivelesAcceso\\Program.cs*",
+              "RelativeToolTip": "NivelesAcceso\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T03:25:37.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

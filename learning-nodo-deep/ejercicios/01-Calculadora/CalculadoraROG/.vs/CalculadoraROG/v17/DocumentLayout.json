@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\ejercicios\\01-Calculadora\\CalculadoraROG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1CD1C7-AAAB-4FA8-955A-A484A6A828C7}|CalculadoraROG\\CalculadoraROG.csproj|c:\\users\\roger escobar\\documents\\00-learning\\nodo\\backend\\learning-nodo-deep\\ejercicios\\01-calculadora\\calculadorarog\\calculadorarog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1CD1C7-AAAB-4FA8-955A-A484A6A828C7}|CalculadoraROG\\CalculadoraROG.csproj|solutionrelative:calculadorarog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\ejercicios\\01-Calculadora\\CalculadoraROG\\CalculadoraROG\\Program.cs",
+              "RelativeDocumentMoniker": "CalculadoraROG\\Program.cs",
+              "ToolTip": "C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\ejercicios\\01-Calculadora\\CalculadoraROG\\CalculadoraROG\\Program.cs",
+              "RelativeToolTip": "CalculadoraROG\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAADwv1kAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T03:27:17.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

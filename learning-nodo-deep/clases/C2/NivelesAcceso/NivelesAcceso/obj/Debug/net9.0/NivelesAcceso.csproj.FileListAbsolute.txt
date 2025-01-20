@@ -1,0 +1,15 @@
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\clases\C2\NivelesAcceso\NivelesAcceso\bin\Debug\net9.0\NivelesAcceso.exe
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\clases\C2\NivelesAcceso\NivelesAcceso\bin\Debug\net9.0\NivelesAcceso.deps.json
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\clases\C2\NivelesAcceso\NivelesAcceso\bin\Debug\net9.0\NivelesAcceso.runtimeconfig.json
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\clases\C2\NivelesAcceso\NivelesAcceso\bin\Debug\net9.0\NivelesAcceso.dll
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\clases\C2\NivelesAcceso\NivelesAcceso\bin\Debug\net9.0\NivelesAcceso.pdb
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\clases\C2\NivelesAcceso\NivelesAcceso\obj\Debug\net9.0\NivelesAcceso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\clases\C2\NivelesAcceso\NivelesAcceso\obj\Debug\net9.0\NivelesAcceso.AssemblyInfoInputs.cache
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\clases\C2\NivelesAcceso\NivelesAcceso\obj\Debug\net9.0\NivelesAcceso.AssemblyInfo.cs
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\clases\C2\NivelesAcceso\NivelesAcceso\obj\Debug\net9.0\NivelesAcceso.csproj.CoreCompileInputs.cache
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\clases\C2\NivelesAcceso\NivelesAcceso\obj\Debug\net9.0\NivelesAcceso.sourcelink.json
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\clases\C2\NivelesAcceso\NivelesAcceso\obj\Debug\net9.0\NivelesAcceso.dll
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\clases\C2\NivelesAcceso\NivelesAcceso\obj\Debug\net9.0\refint\NivelesAcceso.dll
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\clases\C2\NivelesAcceso\NivelesAcceso\obj\Debug\net9.0\NivelesAcceso.pdb
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\clases\C2\NivelesAcceso\NivelesAcceso\obj\Debug\net9.0\NivelesAcceso.genruntimeconfig.cache
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\clases\C2\NivelesAcceso\NivelesAcceso\obj\Debug\net9.0\ref\NivelesAcceso.dll

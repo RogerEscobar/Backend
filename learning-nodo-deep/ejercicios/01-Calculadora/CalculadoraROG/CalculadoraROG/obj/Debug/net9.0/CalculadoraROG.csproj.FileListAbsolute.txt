@@ -1,0 +1,15 @@
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\01-Calculadora\CalculadoraROG\CalculadoraROG\bin\Debug\net9.0\CalculadoraROG.exe
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\01-Calculadora\CalculadoraROG\CalculadoraROG\bin\Debug\net9.0\CalculadoraROG.deps.json
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\01-Calculadora\CalculadoraROG\CalculadoraROG\bin\Debug\net9.0\CalculadoraROG.runtimeconfig.json
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\01-Calculadora\CalculadoraROG\CalculadoraROG\bin\Debug\net9.0\CalculadoraROG.dll
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\01-Calculadora\CalculadoraROG\CalculadoraROG\bin\Debug\net9.0\CalculadoraROG.pdb
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\01-Calculadora\CalculadoraROG\CalculadoraROG\obj\Debug\net9.0\CalculadoraROG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\01-Calculadora\CalculadoraROG\CalculadoraROG\obj\Debug\net9.0\CalculadoraROG.AssemblyInfoInputs.cache
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\01-Calculadora\CalculadoraROG\CalculadoraROG\obj\Debug\net9.0\CalculadoraROG.AssemblyInfo.cs
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\01-Calculadora\CalculadoraROG\CalculadoraROG\obj\Debug\net9.0\CalculadoraROG.csproj.CoreCompileInputs.cache
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\01-Calculadora\CalculadoraROG\CalculadoraROG\obj\Debug\net9.0\CalculadoraROG.sourcelink.json
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\01-Calculadora\CalculadoraROG\CalculadoraROG\obj\Debug\net9.0\CalculadoraROG.dll
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\01-Calculadora\CalculadoraROG\CalculadoraROG\obj\Debug\net9.0\refint\CalculadoraROG.dll
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\01-Calculadora\CalculadoraROG\CalculadoraROG\obj\Debug\net9.0\CalculadoraROG.pdb
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\01-Calculadora\CalculadoraROG\CalculadoraROG\obj\Debug\net9.0\CalculadoraROG.genruntimeconfig.cache
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\01-Calculadora\CalculadoraROG\CalculadoraROG\obj\Debug\net9.0\ref\CalculadoraROG.dll
