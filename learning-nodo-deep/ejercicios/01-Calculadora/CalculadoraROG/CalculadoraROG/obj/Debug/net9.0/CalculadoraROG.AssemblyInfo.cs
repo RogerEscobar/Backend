@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculadoraROG")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2312a47418c6356edf5e7956c4c44158850d317c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77a50e2f9af49d0e2ef1d842bebd4d05c48550e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculadoraROG")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculadoraROG")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
