@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ProgramacionOrientadaObjetos": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

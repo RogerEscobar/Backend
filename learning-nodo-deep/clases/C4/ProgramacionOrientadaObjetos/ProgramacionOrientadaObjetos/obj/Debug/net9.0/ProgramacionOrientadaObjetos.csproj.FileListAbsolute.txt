@@ -1,0 +1,5 @@
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\clases\C4\ProgramacionOrientadaObjetos\ProgramacionOrientadaObjetos\obj\Debug\net9.0\ProgramacionOrientadaObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\clases\C4\ProgramacionOrientadaObjetos\ProgramacionOrientadaObjetos\obj\Debug\net9.0\ProgramacionOrientadaObjetos.AssemblyInfoInputs.cache
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\clases\C4\ProgramacionOrientadaObjetos\ProgramacionOrientadaObjetos\obj\Debug\net9.0\ProgramacionOrientadaObjetos.AssemblyInfo.cs
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\clases\C4\ProgramacionOrientadaObjetos\ProgramacionOrientadaObjetos\obj\Debug\net9.0\ProgramacionOrientadaObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\clases\C4\ProgramacionOrientadaObjetos\ProgramacionOrientadaObjetos\obj\Debug\net9.0\ProgramacionOrientadaObjetos.sourcelink.json

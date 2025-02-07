@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QoAQ2JIva5w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\clases\\C5\\CrearAPI\\CrearAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Roger Escobar\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\Roger Escobar\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

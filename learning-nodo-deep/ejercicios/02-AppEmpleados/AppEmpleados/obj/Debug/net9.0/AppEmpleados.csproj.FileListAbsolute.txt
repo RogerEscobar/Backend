@@ -1,0 +1,15 @@
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\02-AppEmpleados\AppEmpleados\bin\Debug\net9.0\AppEmpleados.exe
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\02-AppEmpleados\AppEmpleados\bin\Debug\net9.0\AppEmpleados.deps.json
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\02-AppEmpleados\AppEmpleados\bin\Debug\net9.0\AppEmpleados.runtimeconfig.json
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\02-AppEmpleados\AppEmpleados\bin\Debug\net9.0\AppEmpleados.dll
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\02-AppEmpleados\AppEmpleados\bin\Debug\net9.0\AppEmpleados.pdb
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\02-AppEmpleados\AppEmpleados\obj\Debug\net9.0\AppEmpleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\02-AppEmpleados\AppEmpleados\obj\Debug\net9.0\AppEmpleados.AssemblyInfoInputs.cache
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\02-AppEmpleados\AppEmpleados\obj\Debug\net9.0\AppEmpleados.AssemblyInfo.cs
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\02-AppEmpleados\AppEmpleados\obj\Debug\net9.0\AppEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\02-AppEmpleados\AppEmpleados\obj\Debug\net9.0\AppEmpleados.sourcelink.json
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\02-AppEmpleados\AppEmpleados\obj\Debug\net9.0\AppEmpleados.dll
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\02-AppEmpleados\AppEmpleados\obj\Debug\net9.0\refint\AppEmpleados.dll
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\02-AppEmpleados\AppEmpleados\obj\Debug\net9.0\AppEmpleados.pdb
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\02-AppEmpleados\AppEmpleados\obj\Debug\net9.0\AppEmpleados.genruntimeconfig.cache
+C:\Users\Roger Escobar\Documents\00-LEARNING\NODO\BACKEND\learning-nodo-deep\ejercicios\02-AppEmpleados\AppEmpleados\obj\Debug\net9.0\ref\AppEmpleados.dll

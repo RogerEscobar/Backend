@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\clases\\C4\\ProgramacionOrientadaObjetos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3897038-A13A-4E72-A77E-96593985BBC5}|ProgramacionOrientadaObjetos\\ProgramacionOrientadaObjetos.csproj|c:\\users\\roger escobar\\documents\\00-learning\\nodo\\backend\\learning-nodo-deep\\clases\\c4\\programacionorientadaobjetos\\programacionorientadaobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3897038-A13A-4E72-A77E-96593985BBC5}|ProgramacionOrientadaObjetos\\ProgramacionOrientadaObjetos.csproj|solutionrelative:programacionorientadaobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\clases\\C4\\ProgramacionOrientadaObjetos\\ProgramacionOrientadaObjetos\\Program.cs",
+              "RelativeDocumentMoniker": "ProgramacionOrientadaObjetos\\Program.cs",
+              "ToolTip": "C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\clases\\C4\\ProgramacionOrientadaObjetos\\ProgramacionOrientadaObjetos\\Program.cs",
+              "RelativeToolTip": "ProgramacionOrientadaObjetos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T01:11:45.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

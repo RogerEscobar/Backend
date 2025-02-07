@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L9UXH5Th6hA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Roger Escobar\\Documents\\00-LEARNING\\NODO\\BACKEND\\learning-nodo-deep\\clases\\C4\\ProgramacionOrientadaObjetos\\ProgramacionOrientadaObjetos\\ProgramacionOrientadaObjetos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Roger Escobar\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
