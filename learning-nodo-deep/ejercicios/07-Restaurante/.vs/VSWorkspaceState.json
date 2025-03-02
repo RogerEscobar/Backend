@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\tdd_example",
+    "\\tdd_example\\KitchenService",
+    "\\tdd_example\\KitchenService.Test",
+    "\\tdd_example\\MenuService",
+    "\\tdd_example\\MenuService.Test",
+    "\\tdd_example\\OrderService",
+    "\\tdd_example\\OrderService.Test"
+  ],
+  "SelectedNode": "\\tdd_example\\KitchenService",
+  "PreviewInSolutionExplorer": false
+}
